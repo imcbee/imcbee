@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Choi McBee</h1>
-<h3 align="center">Vaccine scientist now turned Software Engineer and I draw from my previous experience and passion in product development in vaccine R&D. I also love music performance/production, rock climbing, mechanical keyboards, beer/bourbon. I would love to collaborate so free feel to contact me anytime!</h3>
+<h3 align="center">Vaccine scientist now turned Software Engineer and I draw from my previous experience and passion in product development in vaccine R&D. I also love music performance/production, guitar pedalboards, rock climbing, hiking, mechanical keyboards, beer/bourbon. I would love to collaborate so free feel to contact me anytime!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imcbee" alt="imcbee" /></a> </p>
 
