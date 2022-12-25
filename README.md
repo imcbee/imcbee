@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/ian-mcbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian-mcbee" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/imcbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imcbee" height="30" width="40" /></a>
 <a href="https://codesandbox.com/imcbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="imcbee" height="30" width="40" /></a>
-<a href="https://instagram.com/iancmcbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iancmcbee" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/imcbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imcbee" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imcbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imcbee" height="30" width="40" /></a>
 </p>
