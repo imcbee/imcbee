@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imcbee" alt="imcbee" /></a> </p>
 
-- 💬 Ask me about **React, Express, Node, Django**
+- 💬 Ask me about **React, SpringBoot, Express/Node, Microservices**
 
 - 📫 How to reach me **imcbee@terpmail.umd.edu**
 
